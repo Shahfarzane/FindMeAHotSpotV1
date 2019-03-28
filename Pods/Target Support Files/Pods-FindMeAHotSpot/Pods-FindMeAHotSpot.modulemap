@@ -1,0 +1,6 @@
+framework module Pods_FindMeAHotSpot {
+  umbrella header "Pods-FindMeAHotSpot-umbrella.h"
+
+  export *
+  module * { export * }
+}
